@@ -22,7 +22,7 @@ The dashboard uses **BlinkIT Grocery Data**, sourced from transactional sales re
 ## 🔧 Tools & Technologies
 - **Power BI**: For creating interactive visualizations and reports.
 - **DAX (Data Analysis Expressions)**: Used for calculated columns and measures.
-- **SQL**: For data preprocessing and transformation.
+- **Power Query**: For data preprocessing and cleaning.
 - **AI Split & Decomposition Tree**: Leveraging Power BI's AI capabilities for automated insights.
 
 ## 📈 Key Insights
@@ -46,7 +46,6 @@ The dashboard uses **BlinkIT Grocery Data**, sourced from transactional sales re
 For queries or suggestions, feel free to reach out!
 
 📧 Email: support@blinkit.com
-🌐 Website: [www.blinkit.com](https://www.blinkit.com)
 
 
 </body>
